@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="130" viewBox="0 0 1100 130" role="img" aria-label="Featured projects: engineering systems, research and applied solutions">
+<defs><linearGradient id="a"><stop stop-color="#59d5c0"/><stop offset=".6" stop-color="#71b1e0"/><stop offset="1" stop-color="#edb87c"/></linearGradient></defs>
+<rect x="2" y="2" width="1096" height="126" rx="14" fill="#101c2b" stroke="#32485b" stroke-width="2"/>
+<path d="M20 100H1080 M20 31H1080" stroke="#233b4c"/>
+<path d="M0 64H255 M845 64H1100" stroke="url(#a)" stroke-width="2" fill="none" stroke-dasharray="11 10">
+<animate attributeName="stroke-dashoffset" values="0;-84" dur="7s" repeatCount="indefinite"/></path>
+<text x="550" y="56" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="4" fill="#e9eff5">SELECTED ENGINEERING WORK</text>
+<text x="550" y="84" text-anchor="middle" font-family="monospace" font-size="14" letter-spacing="3" fill="#80bac4">06 PROJECTS  /  DATA  ·  ML  ·  NETWORK SYSTEMS</text>
+<circle cx="270" cy="64" r="4" fill="#57d3c0"><animate attributeName="opacity" values="1;.2;1" dur="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="830" cy="64" r="4" fill="#e7b474"><animate attributeName="opacity" values="1;.2;1" dur="2.9s" repeatCount="indefinite"/></circle>
+</svg>
