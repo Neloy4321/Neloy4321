@@ -8,7 +8,7 @@
 <circle cx="53" cy="25" r="4" fill="#c86d64"/><circle cx="68" cy="25" r="4" fill="#d9aa6d"/><circle cx="83" cy="25" r="4" fill="#5fceae"/>
 <text x="105" y="29" fill="#94afbd" font-family="monospace" font-size="12" letter-spacing="2">NPS / SYSTEMS IN MOTION</text>
 <text x="1061" y="29" text-anchor="end" fill="#78c8b7" font-family="monospace" font-size="11" letter-spacing="2">ENGINEERING PROFILE • 2026</text>
-<text x="52" y="84" fill="#65d9c5" font-family="monospace" font-size="13" letter-spacing="2">> initializing engineering identity <rect x="0" y="0" width="0" height="0"/></text>
+<text x="52" y="84" fill="#65d9c5" font-family="monospace" font-size="13" letter-spacing="2">&gt; initializing engineering identity</text>
 <rect x="357" y="72" width="8" height="14" fill="#6ee5cf"><animate attributeName="opacity" values="1;1;.1;.1;1" dur="1.6s" repeatCount="indefinite"/></rect>
 <text x="50" y="139" fill="#f0f5fa" font-family="Georgia,serif" font-size="40" font-weight="bold" letter-spacing=".7">NELOY PRAMANIK</text>
 <text x="50" y="188" fill="#f2bd7c" font-family="Georgia,serif" font-size="54" font-weight="bold" letter-spacing="2">SUPTO</text>
