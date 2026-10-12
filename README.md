@@ -40,6 +40,11 @@ I enjoy building practical, documented work—from data collection and transform
   <a href="docs/case-studies/NETWORK_ARCHITECTURE.md"><img src="assets/explore-network.svg" width="32%" alt="Open enterprise network architecture case study"/></a>
 </div>
 
+<div align="center">
+  <img src="assets/v7-specialization-roadmap.svg" width="100%" alt="Technical roadmap across data engineering, ML and AI, and networking: demonstrated projects, working methods, and future directions"/>
+</div>
+<p align="center"><sub>Progress is shown through demonstrated work and documented methods—not arbitrary skill percentages. Future directions are goals, not completed certifications.</sub></p>
+
 <a id="featured-engineering-work"></a>
 <div align="center"><img src="assets/sec-projects.svg" width="100%" alt="Featured engineering work section heading"></div>
 
@@ -61,6 +66,14 @@ I enjoy building practical, documented work—from data collection and transform
 - **Sleep-health projects:** research and engineering work; not a clinically validated medical diagnostic tool.
 
 </details>
+
+<p align="center"><sub><b>PROJECT AVAILABILITY</b> · Website links, application source and lab simulations are different kinds of evidence</sub></p>
+<div align="center">
+  <a href="https://www.supto.me"><img src="assets/status-portfolio.svg" width="32%" alt="Portfolio public website link"/></a>
+  <a href="https://github.com/Neloy4321/END-to-END-ML-Project"><img src="assets/status-ml.svg" width="32%" alt="Sleep Health ML source and workflow"/></a>
+  <a href="https://github.com/Neloy4321/Enterprise-Multi-Branch-Network-with-High-Availability"><img src="assets/status-network.svg" width="32%" alt="Enterprise network EVE-NG simulation"/></a>
+</div>
+<p align="center"><sub><b>Status note:</b> The portfolio is linked publicly, but its current uptime was not independently confirmed. An ML deployment workflow is not proof of a currently running public API; the network project is a documented simulation.</sub></p>
 
 <a id="github-statistics"></a>
 <div align="center"><img src="assets/sec-stats.svg" width="100%" alt="GitHub statistics section heading"></div>
