@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="214" viewBox="0 0 1100 214" role="img" aria-label="Animated terminal: engineering systems initializing">
+<defs>
+<linearGradient id="main" x1="0" x2="1"><stop offset="0" stop-color="#152435"/><stop offset="1" stop-color="#101827"/></linearGradient>
+<linearGradient id="flow" x1="0" y1="0" x2="1"><stop offset="0" stop-color="#41ceb7"/><stop offset=".52" stop-color="#64b3d4"/><stop offset="1" stop-color="#dca863"/></linearGradient>
+</defs>
+<rect x="2" y="2" width="1096" height="210" rx="17" fill="url(#main)" stroke="#2c4559" stroke-width="2"/>
+<path d="M18 42H1082" stroke="#314759"/>
+<circle cx="27" cy="22" r="5" fill="#cf7668"/><circle cx="45" cy="22" r="5" fill="#dbb06d"/><circle cx="63" cy="22" r="5" fill="#4ccbad"/>
+<text x="550" y="27" font-family="monospace" font-size="13" fill="#88a4ba" text-anchor="middle" letter-spacing="2">ENGINEER.CONSOLE  /  NPS-SYSTEMS</text>
+<text x="34" y="75" font-family="monospace" font-size="16" fill="#5ee0cd">neloy@github</text>
+<text x="158" y="75" font-family="monospace" font-size="16" fill="#b9c6d6">:~$ ./initialize --focus=engineering</text>
+<rect x="498" y="60" width="9" height="19" fill="#52e5d0"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+<g font-family="monospace" font-size="15">
+<text x="35" y="111" fill="#b6c9d8"><tspan fill="#62dcca">[01]</tspan> BUILD DATA PIPELINES <tspan fill="#7b97ae">···</tspan><tspan fill="#62dcca"> READY</tspan></text>
+<text x="35" y="139" fill="#b6c9d8"><tspan fill="#73bcf0">[02]</tspan> TRAIN &amp; EXPLAIN MODELS <tspan fill="#7b97ae">···</tspan><tspan fill="#73bcf0"> READY</tspan></text>
+<text x="35" y="167" fill="#b6c9d8"><tspan fill="#eab777">[03]</tspan> DESIGN RELIABLE NETWORKS <tspan fill="#7b97ae">···</tspan><tspan fill="#eab777"> READY</tspan></text>
+<g fill="#71dfcc"><circle cx="463" cy="106" r="3"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle></g>
+</g>
+<path d="M589 57V183" stroke="#304b5e"/>
+<text x="616" y="79" font-family="monospace" font-size="12" letter-spacing="2" fill="#829bb0">ACTIVE ENGINEERING DOMAINS</text>
+<g font-family="Arial, sans-serif" font-weight="600" font-size="15">
+<rect x="614" y="98" width="149" height="49" rx="8" fill="#132e36" stroke="#317b78"/><text x="688" y="129" text-anchor="middle" fill="#6de2cf">DATA</text>
+<rect x="775" y="98" width="133" height="49" rx="8" fill="#152d40" stroke="#3c719d"/><text x="841" y="129" text-anchor="middle" fill="#94caff">ML / AI</text>
+<rect x="920" y="98" width="154" height="49" rx="8" fill="#30291f" stroke="#90704a"/><text x="998" y="129" text-anchor="middle" fill="#f0c48b">NETWORKS</text>
+</g>
+<path id="signal" d="M615 167H1067" stroke="url(#flow)" stroke-width="2" fill="none"/>
+<circle r="4" fill="#69e4d3"><animateMotion dur="4.5s" repeatCount="indefinite" path="M615 167H1067"/></circle>
+<circle r="4" fill="#f0bd85"><animateMotion dur="4.5s" begin="-2.25s" repeatCount="indefinite" path="M615 167H1067"/></circle>
+<text x="616" y="188" fill="#6e899e" font-family="monospace" font-size="10">DESIGN  ·  EXPERIMENT  ·  VALIDATE  ·  BUILD</text>
+</svg>
