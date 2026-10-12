@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310" role="img" aria-label="Journey and credentials overview">
+<rect x="1" y="1" width="1098" height="308" rx="18" fill="#0f1a27" stroke="#2f4458"/>
+<text x="34" y="36" font-family="monospace" font-size="12" letter-spacing="3" fill="#9ab0bf">JOURNEY OVERVIEW</text>
+<g font-family="Arial,sans-serif" fill="#eef4fa">
+<rect x="34" y="54" width="500" height="88" rx="14" fill="#101c2b" stroke="#264055"/>
+<text x="58" y="84" font-size="20" font-weight="700" fill="#59d5c0">Education</text>
+<text x="58" y="112" font-size="16">B.Sc. in Computer Science &amp; Engineering</text><text x="58" y="134" font-size="15" fill="#9ab0bf">Daffodil International University · 2021–2025</text>
+<rect x="566" y="54" width="500" height="88" rx="14" fill="#101c2b" stroke="#264055"/>
+<text x="590" y="84" font-size="20" font-weight="700" fill="#7ebaf0">Professional Experience</text>
+<text x="590" y="112" font-size="16">Data Engineering Associate (part-time, remote)</text><text x="590" y="134" font-size="15" fill="#9ab0bf">Red Digital Marketing Group · Mar 2026 to present</text>
+<rect x="34" y="164" width="1032" height="112" rx="14" fill="#101c2b" stroke="#264055"/>
+<text x="58" y="194" font-size="20" font-weight="700" fill="#e8b67a">Selected Training &amp; Credentials</text>
+<text x="58" y="224" font-size="16">• IBM / Coursera — Introduction to Data Engineering</text>
+<text x="58" y="248" font-size="16">• Cisco Networking Academy — Networking Basics</text>
+<text x="550" y="224" font-size="16">• Creative IT Institute — CCNA &amp; MTCNA training completion</text>
+<text x="550" y="248" font-size="16">• Simplilearn — Machine Learning Using Python</text>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" role="img" aria-label="BD-AgroClim project showcase card">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0f1a27"/><stop offset="1" stop-color="#122132"/></linearGradient></defs>
+<rect x="1" y="1" width="1098" height="218" rx="18" fill="url(#bg)" stroke="#2f4458"/>
+<rect x="1" y="1" width="7" height="218" rx="3.5" fill="#7ebaf0"/>
+<rect x="28" y="24" width="360" height="172" rx="14" fill="#0d1825" stroke="#274055"/>
+<g fill="none" stroke="#435c70" stroke-width="1.2">
+<path d="M32 40V140H334 M32 110H334 M32 78H334"/>
+</g>
+<path d="M38 124L74 112L108 118L148 82L185 95L219 67L256 84L292 56L326 73" stroke="#7ebaf0" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="74" cy="112" r="4" fill="#7ebaf0"><animate attributeName="opacity" values=".4;1;.4" dur="2.0s" repeatCount="indefinite"/></circle><circle cx="148" cy="82" r="4" fill="#7ebaf0"><animate attributeName="opacity" values=".4;1;.4" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="219" cy="67" r="4" fill="#7ebaf0"><animate attributeName="opacity" values=".4;1;.4" dur="2.8s" repeatCount="indefinite"/></circle><circle cx="292" cy="56" r="4" fill="#7ebaf0"><animate attributeName="opacity" values=".4;1;.4" dur="3.2s" repeatCount="indefinite"/></circle>
+<path d="M415 28V192" stroke="#2a4257"/>
+<text x="440" y="42" font-family="monospace" font-size="13" letter-spacing="2" fill="#7ebaf0">04 / APPLIED CLIMATE DATA SCIENCE</text>
+<text x="440" y="95" font-family="Georgia,serif" font-size="36" font-weight="700" fill="#eef4fa">BD-AgroClim</text>
+<text x="440" y="128" font-family="Arial,sans-serif" font-size="18" fill="#d4e1eb">NASA POWER · ERA5-Land · LightGBM</text>
+<path d="M440 146H1042" stroke="#284254"/>
+<text x="440" y="173" font-family="monospace" font-size="14" fill="#9ab0bf">36 BMD stations · LOSO validation · SHAP</text>
+<g transform="translate(880 30)">
+<rect x="0" y="0" width="160" height="34" rx="17" fill="#101b28" stroke="#7ebaf0" stroke-opacity=".65"/>
+<text x="80" y="22" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#eef4fa">VIEW REPOSITORY ↗</text>
+</g>
+</svg>

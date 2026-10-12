@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="390" viewBox="0 0 1100 390" role="img" aria-label="Research and publications overview with verified status">
+<rect x="1" y="1" width="1098" height="388" rx="18" fill="#0f1a27" stroke="#2f4458"/>
+<text x="34" y="36" font-family="monospace" font-size="13" letter-spacing="3" fill="#9ab0bf">RESEARCH SNAPSHOT  /  VERIFIED STATUS</text>
+<g font-family="Arial,sans-serif">
+<rect x="34" y="54" width="1032" height="91" rx="14" fill="#101c2b" stroke="#264055"/>
+<text x="58" y="84" fill="#eef4fa" font-size="18" font-weight="700">Addressing Behavioral Patterns of Late Sleepers</text>
+<text x="58" y="107" fill="#d0dfe9" font-size="15">Using a Supervised Learning Approach</text>
+<rect x="782" y="92" width="250" height="30" rx="15" fill="#14352f" stroke="#397e69"/>
+<text x="907" y="112" text-anchor="middle" fill="#69d5b2" font-size="14" font-weight="700">PUBLISHED • 2026</text>
+
+<rect x="34" y="155" width="1032" height="91" rx="14" fill="#101c2b" stroke="#264055"/>
+<text x="58" y="184" fill="#eef4fa" font-size="18" font-weight="700">An Explainable Machine Learning Framework for Personalized</text>
+<text x="58" y="206" fill="#d0dfe9" font-size="15">Sleep Health Assessment and Behavioral Recommendations</text>
+<rect x="737" y="193" width="295" height="34" rx="17" fill="#352a20" stroke="#8a704e"/>
+<text x="885" y="215" text-anchor="middle" fill="#ecc28b" font-size="13" font-weight="700">ACCEPTED • NOT PUBLISHED</text>
+
+<rect x="34" y="256" width="1032" height="91" rx="14" fill="#101c2b" stroke="#264055"/>
+<text x="58" y="285" fill="#eef4fa" font-size="18" font-weight="700">Hybrid CNN–LSTM Framework for Long-Term Solar Irradiance Prediction</text>
+<text x="58" y="307" fill="#d0dfe9" font-size="15">Using Multi-Source Satellite Data • Bangladesh</text>
+<rect x="833" y="294" width="199" height="30" rx="15" fill="#182c40" stroke="#476b97"/>
+<text x="933" y="314" text-anchor="middle" fill="#8cbef0" font-size="14" font-weight="700">SSRN PREPRINT</text>
+</g>
+<text x="550" y="373" text-anchor="middle" font-family="monospace" font-size="12" fill="#95b4c2">EXPLAINABLE AI  •  CLIMATE ANALYTICS  •  HEALTHCARE ML  •  REPRODUCIBLE EVALUATION</text>
+</svg>

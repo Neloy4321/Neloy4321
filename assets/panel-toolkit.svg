@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="315" viewBox="0 0 1100 315" role="img" aria-label="Technical toolkit overview">
+<rect x="1" y="1" width="1098" height="313" rx="18" fill="#0f1a27" stroke="#2f4458"/>
+<text x="36" y="36" font-family="monospace" font-size="12" letter-spacing="3" fill="#9ab0bf">TOOLKIT OVERVIEW</text>
+<rect x="36" y="58" width="1028" height="68" rx="14" fill="#0d1825" stroke="#243e52"/>
+<g font-family="Arial,sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#eef4fa">
+<text x="130" y="99">PYTHON</text><text x="250" y="99">SCIKIT-LEARN</text><text x="390" y="99">PYTORCH</text><text x="505" y="99">SQL</text><text x="615" y="99">DOCKER</text><text x="735" y="99">NODE.JS</text><text x="845" y="99">AWS</text><text x="960" y="99">MIKROTIK</text>
+</g>
+<g font-family="Arial,sans-serif" font-size="14" fill="#eef4fa">
+<rect x="36" y="148" width="330" height="132" rx="14" fill="#101c2b" stroke="#284355"/><text x="58" y="174" font-weight="700" fill="#59d5c0">DATA ENGINEERING &amp; ANALYTICS</text><text x="58" y="202">• Python, pandas, NumPy, SQL</text><text x="58" y="226">• Data cleaning, validation, transformation</text><text x="58" y="250">• CSV workflows, automation, EDA, Power BI</text>
+<rect x="385" y="148" width="330" height="132" rx="14" fill="#101c2b" stroke="#284355"/><text x="407" y="174" font-weight="700" fill="#7ebaf0">MACHINE LEARNING &amp; AI</text><text x="407" y="202">• scikit-learn, XGBoost, LightGBM</text><text x="407" y="226">• PyTorch, NLP, BanglaBERT, mBERT</text><text x="407" y="250">• SHAP, LIME, model evaluation, Optuna</text>
+<rect x="734" y="148" width="330" height="132" rx="14" fill="#101c2b" stroke="#284355"/><text x="756" y="174" font-weight="700" fill="#e8b67a">NETWORKS &amp; SYSTEMS</text><text x="756" y="202">• MikroTik RouterOS, Cisco concepts</text><text x="756" y="226">• EVE-NG, Packet Tracer, OSPF, VLANs</text><text x="756" y="250">• VRRP, NAT, ACLs, SSH, Syslog, NTP</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="255" viewBox="0 0 1100 255" role="img" aria-label="Computational blueprint across data, ML and networking">
+<rect x="1" y="1" width="1098" height="253" rx="18" fill="#0f1a27" stroke="#2f4458"/>
+<text x="32" y="31" font-family="monospace" font-size="12" letter-spacing="3" fill="#9ab0bf">COMPUTATIONAL BLUEPRINT</text>
+<path d="M367 48V222 M733 48V222" stroke="#314557" stroke-dasharray="5 6"/>
+<text x="183" y="76" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#59d5c0">DATA FLOW</text>
+<text x="550" y="76" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#7ebaf0">MODEL INTELLIGENCE</text>
+<text x="917" y="76" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#e8b67a">NETWORK RESILIENCE</text>
+<text x="183" y="102" text-anchor="middle" font-family="monospace" font-size="12" fill="#9ab0bf">INGEST / CLEAN / ANALYZE</text>
+<text x="550" y="102" text-anchor="middle" font-family="monospace" font-size="12" fill="#9ab0bf">TRAIN / EVALUATE / EXPLAIN</text>
+<text x="917" y="102" text-anchor="middle" font-family="monospace" font-size="12" fill="#9ab0bf">CORE / ROUTE / FAILOVER</text>
+<g fill="none" stroke="#59d5c0" stroke-width="2.2"><rect x="63" y="122" width="72" height="54" rx="8" fill="#143238"/><rect x="161" y="122" width="72" height="54" rx="8" fill="#143238"/><rect x="259" y="122" width="72" height="54" rx="8" fill="#143238"/><path d="M135 149H161 M233 149H259"/><path d="M145 143l10 6-10 6 M243 143l10 6-10 6"/><ellipse cx="99" cy="137" rx="15" ry="6"/><path d="M84 137v18c0 8 30 8 30 0v-18"/><path d="M182 135h30 M182 149h30 M182 163h30"/><path d="M277 162l14-18 12 8 13-20"/></g>
+<circle r="4" fill="#59d5c0"><animateMotion path="M135 149H161" dur="2s" repeatCount="indefinite"/></circle>
+<circle r="4" fill="#59d5c0"><animateMotion path="M233 149H259" dur="2.7s" repeatCount="indefinite"/></circle>
+<g fill="none" stroke="#7ebaf0" stroke-width="2"><circle cx="550" cy="143" r="12" fill="#203447"/><circle cx="495" cy="166" r="8" fill="#203447"/><circle cx="517" cy="128" r="8" fill="#203447"/><circle cx="605" cy="128" r="8" fill="#203447"/><circle cx="627" cy="166" r="8" fill="#203447"/><path d="M517 128L550 143L605 128 M495 166L550 143L627 166 M517 128L495 166 M605 128L627 166"/></g>
+<circle r="4" fill="#7ebaf0"><animateMotion path="M517 128L550 143L605 128" dur="4.4s" repeatCount="indefinite"/></circle>
+<g fill="none" stroke="#e8b67a" stroke-width="2"><rect x="885" y="118" width="76" height="42" rx="8" fill="#2b2a25"/><rect x="790" y="176" width="70" height="38" rx="8" fill="#2b2a25"/><rect x="974" y="176" width="70" height="38" rx="8" fill="#2b2a25"/><path d="M923 160V170H825V176 M923 170H1009V176"/><path d="M901 132h44 M806 190h38 M990 190h38"/></g>
+<circle r="4" fill="#e8b67a"><animateMotion path="M923 160V170H825V176" dur="3.2s" repeatCount="indefinite"/></circle>
+<circle r="4" fill="#e8b67a"><animateMotion path="M923 170H1009V176" dur="3.7s" repeatCount="indefinite"/></circle>
+</svg>

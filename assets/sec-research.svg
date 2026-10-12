@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="96" viewBox="0 0 1100 96" role="img" aria-label="Research &amp; Publications section heading">
+<rect x="1" y="1" width="1098" height="94" rx="16" fill="#0f1a27" stroke="#2f4458"/>
+<path d="M28 48H220 M880 48H1072" stroke="#e8b67a" stroke-opacity=".55" stroke-width="1.7" stroke-dasharray="14 10">
+<animate attributeName="stroke-dashoffset" from="0" to="-96" dur="14s" repeatCount="indefinite"/>
+</path>
+<text x="70" y="43" font-family="Arial,sans-serif" font-size="14" letter-spacing="4" fill="#e8b67a">06</text>
+<text x="550" y="42" text-anchor="middle" font-family="Georgia,serif" font-size="30" font-weight="700" fill="#eef4fa">Research &amp; Publications</text>
+<text x="550" y="68" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="2" fill="#9ab0bf">Verified status only — no exaggerated claims</text>
+</svg>
