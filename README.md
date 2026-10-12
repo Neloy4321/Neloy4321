@@ -33,6 +33,13 @@ I enjoy building practical, documented work—from data collection and transform
 | Python, pandas, SQL, structured workflows and automation | scikit-learn, XGBoost, LightGBM, NLP and explainability | MikroTik and Cisco concepts, routing, segmentation and HA labs |
 | **Goal:** reliable data | **Goal:** understandable models | **Goal:** resilient systems |
 
+<p align="center"><sub><b>EXPLORE ENGINEERING</b> · Three focused case studies with architecture, implementation and evidence</sub></p>
+<div align="center">
+  <a href="docs/case-studies/DATA_PIPELINE.md"><img src="assets/explore-data.svg" width="32%" alt="Open data pipeline engineering case study"/></a>
+  <a href="docs/case-studies/ML_SYSTEM.md"><img src="assets/explore-ml.svg" width="32%" alt="Open ML systems engineering case study"/></a>
+  <a href="docs/case-studies/NETWORK_ARCHITECTURE.md"><img src="assets/explore-network.svg" width="32%" alt="Open enterprise network architecture case study"/></a>
+</div>
+
 <a id="featured-engineering-work"></a>
 <div align="center"><img src="assets/sec-projects.svg" width="100%" alt="Featured engineering work section heading"></div>
 
@@ -42,6 +49,8 @@ I enjoy building practical, documented work—from data collection and transform
 <div align="center"><a href="https://github.com/Neloy4321/BD-AgroClim"><img src="assets/proj-climate.svg" width="100%" alt="BD-AgroClim project card"></a></div>
 <div align="center"><a href="https://github.com/Neloy4321/Bengali-fakenews-hatespeech-detection"><img src="assets/proj-nlp.svg" width="100%" alt="Bengali Fake News and Hate Speech project card"></a></div>
 <div align="center"><a href="https://github.com/Neloy4321/Explainable-Sleep-Health"><img src="assets/proj-sleep.svg" width="100%" alt="Explainable Sleep Health project card"></a></div>
+
+<p align="center"><a href="docs/PROJECT_ATLAS.md"><b>Explore the Complete Project Atlas → All 12 Public Repositories</b></a></p>
 
 <details>
 <summary><b>Project evidence and scope notes</b></summary>
@@ -114,6 +123,8 @@ I enjoy building practical, documented work—from data collection and transform
 <a href="https://drive.google.com/file/d/1DM5PuRpSuabGNLx9FeMF_WCS-CzuFfnR/view?usp=sharing"><b>Creative IT Training</b></a> &nbsp;•&nbsp;
 <a href="https://drive.google.com/file/d/1iUjasdbf6T8Oq_X3cGu3eENpYBGinol-/view?usp=sharing"><b>Simplilearn ML</b></a>
 </div>
+
+<p align="center"><a href="docs/CAREER_HUB.md"><b>View Role-Specific CVs & Collaboration Opportunities →</b></a></p>
 
 <a id="connect"></a>
 <div align="center"><img src="assets/sec-connect.svg" width="100%" alt="Connect section heading"></div>
