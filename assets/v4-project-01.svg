@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="205" viewBox="0 0 1100 205" role="img" aria-label="Enterprise Multi-Branch Network feature card"><title>Enterprise Multi-Branch Network feature card</title><defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#101d2a"/><stop offset="1" stop-color="#151d26"/></linearGradient></defs><rect x="1" y="1" width="1098" height="203" rx="15" fill="url(#b)" stroke="#334657" stroke-width="1.4"/>
+ <rect x="1" y="1" width="7" height="203" rx="3.5" fill="#e5b77b"/>
+ <path d="M300 24V182" stroke="#314556" stroke-width="1.2"/>
+ <rect x="18" y="26" width="265" height="145" rx="12" fill="#0e1825" stroke="#253c4f" stroke-width="1.3"/>
+ <g fill="none" stroke="#e5b77b" stroke-width="2"><rect x="94" y="51" width="68" height="40" rx="7" fill="#26313b"/><rect x="35" y="119" width="56" height="35" rx="6" fill="#26313b"/><rect x="166" y="119" width="56" height="35" rx="6" fill="#26313b"/><path d="M128 91V106H63V119 M128 106H194V119"/><path d="M105 63h46 M105 75h46 M46 132h34 M176 132h34"/></g><circle r="4" fill="#e5b77b"><animateMotion path="M128 91V106H63V119" dur="3s" repeatCount="indefinite"/></circle><circle r="4" fill="#e5b77b"><animateMotion path="M128 91V106H194V119" dur="3.5s" repeatCount="indefinite"/></circle>
+ <text x="317" y="42" fill="#e5b77b" font-family="monospace" font-size="12" letter-spacing="2">01 / NETWORK INFRASTRUCTURE</text>
+ <text x="317" y="88" fill="#edf4f9" font-family="Georgia,serif" font-size="29" font-weight="bold">Enterprise Multi-Branch Network</text>
+ <text x="317" y="121" fill="#c0ced9" font-family="Arial,sans-serif" font-size="17">EVE-NG simulation  ·  Multi-area OSPF  ·  VRRP</text>
+ <path d="M317 148H1060" stroke="#2d4657" stroke-width="1.2"/>
+ <text x="317" y="174" fill="#95b5bc" font-family="monospace" font-size="14">3-site architecture   /   routing + security + failover</text>
+ <text x="1050" y="42" text-anchor="end" fill="#9db5c5" font-family="monospace" font-size="13">VIEW REPOSITORY ↗</text></svg>

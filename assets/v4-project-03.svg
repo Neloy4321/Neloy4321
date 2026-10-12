@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="205" viewBox="0 0 1100 205" role="img" aria-label="Geo-Business Discovery Pipeline feature card"><title>Geo-Business Discovery Pipeline feature card</title><defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#101d2a"/><stop offset="1" stop-color="#151d26"/></linearGradient></defs><rect x="1" y="1" width="1098" height="203" rx="15" fill="url(#b)" stroke="#334657" stroke-width="1.4"/>
+ <rect x="1" y="1" width="7" height="203" rx="3.5" fill="#61d7c4"/>
+ <path d="M300 24V182" stroke="#314556" stroke-width="1.2"/>
+ <rect x="18" y="26" width="265" height="145" rx="12" fill="#0e1825" stroke="#253c4f" stroke-width="1.3"/>
+ <g fill="none" stroke="#61d7c4" stroke-width="2"><rect x="20" y="80" width="66" height="57" rx="7" fill="#15343a"/><rect x="107" y="80" width="66" height="57" rx="7" fill="#15343a"/><rect x="194" y="80" width="66" height="57" rx="7" fill="#15343a"/><path d="M86 108H107 M173 108H194"/><path d="M30 92H76 M30 103H66 M117 94H163 M117 105H158 M204 95L217 107L231 99L249 118"/></g><circle r="4" fill="#61d7c4"><animateMotion path="M86 108H107" dur="2s" repeatCount="indefinite"/></circle><circle r="4" fill="#61d7c4"><animateMotion path="M173 108H194" dur="2.8s" repeatCount="indefinite"/></circle>
+ <text x="317" y="42" fill="#61d7c4" font-family="monospace" font-size="12" letter-spacing="2">03 / DATA AUTOMATION</text>
+ <text x="317" y="88" fill="#edf4f9" font-family="Georgia,serif" font-size="29" font-weight="bold">Geo-Business Discovery Pipeline</text>
+ <text x="317" y="121" fill="#c0ced9" font-family="Arial,sans-serif" font-size="17">Node.js  ·  Playwright  ·  Deduplication</text>
+ <path d="M317 148H1060" stroke="#2d4657" stroke-width="1.2"/>
+ <text x="317" y="174" fill="#95b5bc" font-family="monospace" font-size="14">10,000+ records in project testing  /  CSV export</text>
+ <text x="1050" y="42" text-anchor="end" fill="#9db5c5" font-family="monospace" font-size="13">VIEW REPOSITORY ↗</text></svg>

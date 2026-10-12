@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="340" viewBox="0 0 1100 340" role="img" aria-label="NPS Systems in Motion animated CSE engineering profile"><title>NPS Systems in Motion animated CSE engineering profile</title><defs><linearGradient id="hbg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#0d1622"/><stop offset=".60" stop-color="#111b29"/><stop offset="1" stop-color="#1b2228"/></linearGradient><linearGradient id="beam" x1="0" x2="1"><stop stop-color="#45ccb9"/><stop offset=".5" stop-color="#76afe5"/><stop offset="1" stop-color="#e7b472"/></linearGradient><radialGradient id="core"><stop stop-color="#1d3d4b"/><stop offset="1" stop-color="#132234"/></radialGradient></defs>
+<rect x="1" y="1" width="1098" height="338" rx="22" fill="url(#hbg)" stroke="#34495b" stroke-width="2"/>
+<g stroke="#779ab0" stroke-width=".65" opacity=".12">
+<path d="M0 40H1100"/><path d="M0 70H1100"/><path d="M0 100H1100"/><path d="M0 130H1100"/><path d="M0 160H1100"/><path d="M0 190H1100"/><path d="M0 220H1100"/><path d="M0 250H1100"/><path d="M0 280H1100"/><path d="M0 310H1100"/>
+<path d="M0 0V340"/><path d="M44 0V340"/><path d="M88 0V340"/><path d="M132 0V340"/><path d="M176 0V340"/><path d="M220 0V340"/><path d="M264 0V340"/><path d="M308 0V340"/><path d="M352 0V340"/><path d="M396 0V340"/><path d="M440 0V340"/><path d="M484 0V340"/><path d="M528 0V340"/><path d="M572 0V340"/><path d="M616 0V340"/><path d="M660 0V340"/><path d="M704 0V340"/><path d="M748 0V340"/><path d="M792 0V340"/><path d="M836 0V340"/><path d="M880 0V340"/><path d="M924 0V340"/><path d="M968 0V340"/><path d="M1012 0V340"/><path d="M1056 0V340"/>
+</g>
+<path d="M38 48H1062" stroke="#31495b"/><path d="M38 280H1062" stroke="#31495b"/>
+<circle cx="53" cy="25" r="4" fill="#c86d64"/><circle cx="68" cy="25" r="4" fill="#d9aa6d"/><circle cx="83" cy="25" r="4" fill="#5fceae"/>
+<text x="105" y="29" fill="#94afbd" font-family="monospace" font-size="12" letter-spacing="2">NPS / SYSTEMS IN MOTION</text>
+<text x="1061" y="29" text-anchor="end" fill="#78c8b7" font-family="monospace" font-size="11" letter-spacing="2">ENGINEERING PROFILE • 2026</text>
+<text x="52" y="84" fill="#65d9c5" font-family="monospace" font-size="13" letter-spacing="2">> initializing engineering identity <rect x="0" y="0" width="0" height="0"/></text>
+<rect x="357" y="72" width="8" height="14" fill="#6ee5cf"><animate attributeName="opacity" values="1;1;.1;.1;1" dur="1.6s" repeatCount="indefinite"/></rect>
+<text x="50" y="139" fill="#f0f5fa" font-family="Georgia,serif" font-size="40" font-weight="bold" letter-spacing=".7">NELOY PRAMANIK</text>
+<text x="50" y="188" fill="#f2bd7c" font-family="Georgia,serif" font-size="54" font-weight="bold" letter-spacing="2">SUPTO</text>
+<text x="52" y="226" fill="#c9d9e3" font-family="Arial,sans-serif" font-size="16" font-weight="400">Building Intelligent Data Systems, ML Solutions,</text>
+<text x="52" y="249" fill="#c9d9e3" font-family="Arial,sans-serif" font-size="16" font-weight="400">and Network Architectures.</text>
+<g transform="translate(746 79)">
+<path d="M0 81H43L76 49H103 M299 81H260L230 49H205 M0 112H48L80 136H103 M299 112H254L227 136H205" fill="none" stroke="url(#beam)" stroke-width="2" stroke-linejoin="round"/>
+<path d="M139 -12V16 M171 -12V16 M139 211V182 M171 211V182" stroke="#528d9f" stroke-width="1.5"/>
+<rect x="95" y="20" width="116" height="157" rx="12" fill="url(#core)" stroke="#6abcae" stroke-width="2"/>
+<rect x="108" y="39" width="90" height="116" rx="5" fill="#102333" stroke="#54768d" stroke-width="1.3"/>
+<path d="M123 125L143 107L159 116L183 83 M123 92L143 107 M159 116L171 135" stroke="#68d5c7" stroke-width="1.6" fill="none"/>
+<circle cx="123" cy="125" r="3.5" fill="#67e4cf"><animate attributeName="opacity" values=".45;1;.45" dur="2.0s" repeatCount="indefinite"/></circle><circle cx="143" cy="107" r="3.5" fill="#8dbeed"><animate attributeName="opacity" values=".45;1;.45" dur="2.3s" repeatCount="indefinite"/></circle><circle cx="159" cy="116" r="5" fill="#67e4cf"><animate attributeName="opacity" values=".45;1;.45" dur="2.6s" repeatCount="indefinite"/></circle><circle cx="183" cy="83" r="3.5" fill="#8dbeed"><animate attributeName="opacity" values=".45;1;.45" dur="2.9s" repeatCount="indefinite"/></circle><circle cx="123" cy="92" r="3.5" fill="#67e4cf"><animate attributeName="opacity" values=".45;1;.45" dur="3.2s" repeatCount="indefinite"/></circle><circle cx="171" cy="135" r="3.5" fill="#8dbeed"><animate attributeName="opacity" values=".45;1;.45" dur="3.5s" repeatCount="indefinite"/></circle>
+<text x="153" y="72" font-size="13" letter-spacing="3" text-anchor="middle" font-family="monospace" fill="#d2eef0">NPS CORE</text>
+<circle cx="7" cy="81" r="4" fill="#64d5c4"/><circle cx="296" cy="81" r="4" fill="#e0b678"/><circle cx="7" cy="112" r="4" fill="#75b9e8"/><circle cx="296" cy="112" r="4" fill="#67d9c6"/>
+<circle r="4.5" fill="#9effea"><animateMotion dur="4.5s" repeatCount="indefinite" path="M7 81H43L76 49H103"/></circle>
+<circle r="4.5" fill="#f4ca8b"><animateMotion dur="5.2s" repeatCount="indefinite" path="M296 112H254L227 136H205"/></circle>
+<text x="-2" y="48" font-family="monospace" font-size="11" fill="#63d9c6" letter-spacing="1">DATA</text><text x="305" y="48" font-family="monospace" font-size="11" fill="#81beee" letter-spacing="1">AI</text>
+<text x="108" y="205" font-family="monospace" font-size="11" fill="#e7ba7f" letter-spacing="1">NET / SYSTEMS</text>
+</g>
+<g font-family="monospace" font-size="13" letter-spacing="1">
+<circle cx="58" cy="308" r="4" fill="#63d9c4"/><text x="70" y="313" fill="#b5ddd5">DATA ENGINEERING</text>
+<circle cx="295" cy="308" r="4" fill="#86bdf0"/><text x="307" y="313" fill="#bcd5ec">MACHINE LEARNING &amp; AI</text>
+<circle cx="625" cy="308" r="4" fill="#e8b77a"/><text x="638" y="313" fill="#e5cdb0">NETWORK ARCHITECTURE</text>
+</g>
+<path d="M38 280H1062" stroke="url(#beam)" stroke-width="2" stroke-dasharray="16 18" opacity=".8"><animate attributeName="stroke-dashoffset" values="0;-136" dur="12s" repeatCount="indefinite"/></path></svg>

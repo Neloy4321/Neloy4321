@@ -1,265 +1,169 @@
-<!--
-  NELOY4321 — Engineering Profile / Signature Edition
-  Static hero + self-contained animated SVGs (no JavaScript, no fake counters)
-  Color tokens: ink #101c2b | teal #59d5c0 | ice #71b1e0 | amber #edb87c
--->
-
+<!-- NPS / Systems in Motion — Custom GitHub Profile | no stock banner, no scripted UI -->
 <div align="center">
-
-<img src="assets/hero.webp" width="100%" alt="Neloy Pramanik Supto — elegant computer science workspace representing data engineering, machine learning and network architecture" />
-
-<br/>
-
-<a href="https://www.supto.me"><img alt="Visit Portfolio" src="https://img.shields.io/badge/PORTFOLIO-supto.me-126a78?style=for-the-badge&amp;labelColor=132333&amp;logo=googlechrome&amp;logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/neloy-pramanik-supto-b52677236/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Connect-266aa6?style=for-the-badge&amp;labelColor=132333&amp;logo=linkedin&amp;logoColor=white"/></a>
-<a href="mailto:neloybbs@gmail.com"><img alt="Send Email" src="https://img.shields.io/badge/EMAIL-Get_in_Touch-a37841?style=for-the-badge&amp;labelColor=132333&amp;logo=gmail&amp;logoColor=white"/></a>
-
-**Computer Science & Engineering Graduate · Dhaka, Bangladesh**
-
-### Building Intelligent Data Systems, ML Solutions, and Network Architectures
-
-<img src="assets/animated-terminal.svg" width="100%" alt="Animated developer terminal showing data, ML and network systems initializing" />
-
-<sub>Independent engineering projects · Applied research · Reproducible experiments</sub>
-
+  <img src="assets/v4-hero.svg" width="100%" alt="NPS Systems in Motion — animated engineering identity for Neloy Pramanik Supto" />
+  <p>
+    <a href="https://www.supto.me"><img src="https://img.shields.io/badge/PORTFOLIO-supto.me-177e83?style=flat-square&labelColor=172335&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/neloy-pramanik-supto-b52677236/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-3077ad?style=flat-square&labelColor=172335&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:neloybbs@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-a47d4b?style=flat-square&labelColor=172335&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://orcid.org/0009-0001-5172-870X"><img src="https://img.shields.io/badge/ORCID-Research-52966f?style=flat-square&labelColor=172335&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  </p>
+  <sub><b>CSE Graduate · Dhaka, Bangladesh</b> | Data Engineering · Machine Learning & AI · Computer Networking</sub>
 </div>
 
 ---
 
-<p align="center">
-  <a href="#about-me">ABOUT</a> &nbsp;·&nbsp;
-  <a href="#the-engineering-blueprint">ENGINEERING</a> &nbsp;·&nbsp;
-  <a href="#featured-projects">PROJECTS</a> &nbsp;·&nbsp;
-  <a href="#technical-toolkit">SKILLS</a> &nbsp;·&nbsp;
-  <a href="#research--publications">RESEARCH</a> &nbsp;·&nbsp;
-  <a href="#engineering-journey">JOURNEY</a> &nbsp;·&nbsp;
-  <a href="#training--credentials">CREDENTIALS</a>
-</p>
-
-## About me
-
-I am **Neloy Pramanik Supto**, a Computer Science and Engineering graduate from **Daffodil International University (2025)**. I work at the intersection of **data analytics & engineering**, **machine learning & AI**, and **computer networking**.
-
-My interests are practical: turning messy data into repeatable workflows, testing models with meaningful validation and explainability, and designing resilient network infrastructure in simulated enterprise environments. I enjoy the entire technical process—from asking the right question to documenting and validating a working solution.
-
-> **My approach:** Build it. Measure it. Explain it. Improve it.
-
-**A quick snapshot**
-
-- 🗂️ **Data:** collection, validation, ETL, exploratory analysis and structured business data.
-- 🧠 **ML & AI:** supervised learning, NLP, transformers, interpretable ML and research experiments.
-- 🌐 **Networking:** Cisco/MikroTik concepts, multi-area routing, segmentation, redundancy and monitoring.
-- 🔬 **Research:** climate-data reconstruction, sleep-health analysis and Bengali-language NLP.
-- 📍 **Based in:** Dhaka, Bangladesh · Open to collaboration on meaningful engineering work.
-
-## The engineering blueprint
-
 <div align="center">
-  <img src="assets/animated-system-blueprint.svg" width="100%" alt="Animated diagram of data pipelines, neural-network model layers and multi-branch network infrastructure"/>
+<a href="#01--about--direction">ABOUT</a> &nbsp;·&nbsp; <a href="#02--three-engineering-disciplines">DISCIPLINES</a> &nbsp;·&nbsp; <a href="#03--featured-engineering-work">PROJECTS</a> &nbsp;·&nbsp; <a href="#04--technical-toolkit">TOOLKIT</a> &nbsp;·&nbsp; <a href="#05--research--publications">RESEARCH</a> &nbsp;·&nbsp; <a href="#06--journey--credentials">JOURNEY</a> &nbsp;·&nbsp; <a href="#07--connect">CONNECT</a>
 </div>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<b>01 — DATA SYSTEMS</b><br/>
-<sub>Reliable input → trustworthy output</sub>
-<p>Python, SQL, cleaning, feature engineering, pipelines, quality checks, analytics and reproducible datasets.</p>
-</td>
-<td width="33%" valign="top">
-<b>02 — INTELLIGENT MODELS</b><br/>
-<sub>Learning → evaluation → explanation</sub>
-<p>scikit-learn, XGBoost, LightGBM, PyTorch, transformers, rigorous splitting, SHAP and LIME.</p>
-</td>
-<td width="34%" valign="top">
-<b>03 — CONNECTED INFRASTRUCTURE</b><br/>
-<sub>Connectivity → security → resilience</sub>
-<p>Network design, OSPF, VLANs, VRRP, NAT, stateful firewalls, SSH and monitoring labs.</p>
-</td>
-</tr>
-</table>
+## 01 / About & Direction
 
-## Featured projects
+I'm **Neloy Pramanik Supto**, a Computer Science & Engineering graduate from **Daffodil International University (2025)**. I focus equally on three technical areas:
+
+**Data systems** that turn unstructured information into reliable datasets; **machine learning** that can be evaluated and explained; and **computer networks** designed for connectivity, security and resilience.
+
+My portfolio brings together **implemented projects**, **applied research** and **documented experiments**—from automated data collection and an end-to-end sleep-health ML workflow to a multi-site networking lab.
+
+> **How I work:** Frame a real problem → design a method → implement → validate → document → improve.
+
+## 02 / Three Engineering Disciplines
 
 <div align="center">
-<img src="assets/selected-work-ribbon.svg" width="100%" alt="Animated selected engineering work heading"/>
+<img src="assets/v4-blueprint.svg" width="100%" alt="Animated engineering blueprint with data-processing flows, machine-learning graph and resilient network topology"/>
 </div>
 
-<!-- Each feature links to its actual repository. No invented demo deployments. -->
-<table>
-<tr>
-<td width="50%" valign="top">
-<sub>01 / NETWORK ARCHITECTURE</sub>
-<h3><a href="https://github.com/Neloy4321/Enterprise-Multi-Branch-Network-with-High-Availability">Enterprise Multi-Branch Network</a></h3>
-<p>High-availability enterprise topology designed and validated in an <b>EVE-NG simulated lab</b> with MikroTik RouterOS v7.</p>
-<p><b>Inside:</b> HQ + 2 branches · Multi-area OSPF · VLAN segmentation · VRRP · DHCP relay · NAT · Firewall · Syslog/NTP.</p>
-<a href="https://github.com/Neloy4321/Enterprise-Multi-Branch-Network-with-High-Availability"><b>Explore architecture →</b></a>
-</td>
-<td width="50%" valign="top">
-<sub>02 / END-TO-END MACHINE LEARNING</sub>
-<h3><a href="https://github.com/Neloy4321/END-to-END-ML-Project">Sleep Health ML System</a></h3>
-<p>Modular ML prediction pipeline from data ingestion and validation through feature processing, inference and application delivery.</p>
-<p><b>Inside:</b> scikit-learn · FastAPI · MongoDB · Docker · AWS EC2/ECR · GitHub Actions CI/CD workflow.</p>
-<a href="https://github.com/Neloy4321/END-to-END-ML-Project"><b>Explore ML pipeline →</b></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<sub>03 / DATA ENGINEERING &amp; AUTOMATION</sub>
-<h3><a href="https://github.com/Neloy4321/Enterprise-Geo-Business-Discovery-Data-Collection-Pipeline">Geo-Business Discovery Pipeline</a></h3>
-<p>A modular Node.js and Playwright workflow to collect and transform public location-based business information into structured datasets.</p>
-<p><b>Inside:</b> 10,000+ records in project testing · batching · extraction · retries · deduplication · CSV export.</p>
-<a href="https://github.com/Neloy4321/Enterprise-Geo-Business-Discovery-Data-Collection-Pipeline"><b>Explore data pipeline →</b></a>
-</td>
-<td width="50%" valign="top">
-<sub>04 / CLIMATE DATA SCIENCE RESEARCH</sub>
-<h3><a href="https://github.com/Neloy4321/BD-AgroClim">BD-AgroClim</a></h3>
-<p>Reanalysis bias evaluation and ML-assisted agro-climatic data reconstruction across Bangladesh, with strict spatial validation.</p>
-<p><b>Inside:</b> 36 BMD stations · NASA POWER + ERA5-Land · 2000–2023 validation · LightGBM · LOSO · SHAP.</p>
-<a href="https://github.com/Neloy4321/BD-AgroClim"><b>Explore research workflow →</b></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<sub>05 / NLP, TRANSFORMERS &amp; XAI</sub>
-<h3><a href="https://github.com/Neloy4321/Bengali-fakenews-hatespeech-detection">Bengali Fake News &amp; Hate Speech</a></h3>
-<p>Two Bengali text-classification tasks, with transformer model comparisons, statistical evaluation and explainability.</p>
-<p><b>Inside:</b> BanglaBERT · mBERT · ~95k news samples · ~50k comments · SHAP / LIME.</p>
-<a href="https://github.com/Neloy4321/Bengali-fakenews-hatespeech-detection"><b>Explore NLP experiments →</b></a>
-</td>
-<td width="50%" valign="top">
-<sub>06 / INTERPRETABLE HEALTH ANALYTICS</sub>
-<h3><a href="https://github.com/Neloy4321/Explainable-Sleep-Health">Explainable Sleep Health</a></h3>
-<p>Research-oriented sleep-health modeling focused on interpretable predictions, feature contributions and behavioral recommendations.</p>
-<p><b>Inside:</b> tabular data · CatBoost / XGBoost · SHAP · feature engineering · individualized explanations.</p>
-<a href="https://github.com/Neloy4321/Explainable-Sleep-Health"><b>Explore explainable ML →</b></a>
-</td>
-</tr>
-</table>
+| 01 — Data & Analytics | 02 — ML & AI | 03 — Network Engineering |
+| :--- | :--- | :--- |
+| Python, pandas, SQL, data cleaning, quality control and automated pipelines | scikit-learn, XGBoost, LightGBM, NLP, explainable AI and careful evaluation | Cisco and MikroTik concepts, OSPF, VLANs, VRRP, firewalling, network labs |
+| **Goal:** trustworthy data | **Goal:** understandable predictions | **Goal:** reliable systems |
 
-### Evidence from the work
+## 03 / Featured Engineering Work
 
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://github.com/Neloy4321/Enterprise-Multi-Branch-Network-with-High-Availability"><img src="https://raw.githubusercontent.com/Neloy4321/Enterprise-Multi-Branch-Network-with-High-Availability/main/topology/Enterprise-Network.png" alt="Enterprise network architecture topology from project" width="100%"/></a><br/>
-<sub>Enterprise network topology</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/Neloy4321/BD-AgroClim"><img src="https://raw.githubusercontent.com/Neloy4321/BD-AgroClim/main/figures/F9_shap.png" alt="SHAP results from Bangladesh agro-climate research" width="100%"/></a><br/>
-<sub>Explainable climate ML</sub>
-</td>
-<td align="center" width="34%">
-<a href="https://github.com/Neloy4321/Bengali-fakenews-hatespeech-detection"><img src="https://raw.githubusercontent.com/Neloy4321/Bengali-fakenews-hatespeech-detection/main/fig3_confusion_matrices.png" alt="Confusion matrices from Bengali NLP experiments" width="100%"/></a><br/>
-<sub>Classification evaluation</sub>
-</td>
-</tr>
-</table>
+<div align="center"><img src="assets/v4-work-divider.svg" width="100%" alt="Selected Builds animated heading"/></div>
+
+<div align="center"><a href="https://github.com/Neloy4321/Enterprise-Multi-Branch-Network-with-High-Availability"><img src="assets/v4-project-01.svg" width="100%" alt="Enterprise Multi-Branch Network - 3-site architecture   /   routing + security + failover"/></a></div>
+A headquarters and two branches, with routing, VLAN isolation, gateway redundancy and monitoring in an emulated network. **[Repository ↗](https://github.com/Neloy4321/Enterprise-Multi-Branch-Network-with-High-Availability)**
+
+<div align="center"><a href="https://github.com/Neloy4321/END-to-END-ML-Project"><img src="assets/v4-project-02.svg" width="100%" alt="End-to-End Sleep Health ML - ingestion   /   validation   /   training   /   inference"/></a></div>
+An ingestion-to-prediction workflow with containerization, deployment-oriented components and documented CI/CD architecture. **[Repository ↗](https://github.com/Neloy4321/END-to-END-ML-Project)**
+
+<div align="center"><a href="https://github.com/Neloy4321/Enterprise-Geo-Business-Discovery-Data-Collection-Pipeline"><img src="assets/v4-project-03.svg" width="100%" alt="Geo-Business Discovery Pipeline - 10,000+ records in project testing  /  CSV export"/></a></div>
+Batch-oriented collection and transformation of public business information into structured datasets. **[Repository ↗](https://github.com/Neloy4321/Enterprise-Geo-Business-Discovery-Data-Collection-Pipeline)**
+
+<div align="center"><a href="https://github.com/Neloy4321/BD-AgroClim"><img src="assets/v4-project-04.svg" width="100%" alt="BD-AgroClim - 36 BMD stations  /  LOSO validation  /  SHAP"/></a></div>
+Bias correction and validation of agro-climatic reanalysis data with spatially withheld evaluation. **[Repository ↗](https://github.com/Neloy4321/BD-AgroClim)**
+
+<div align="center"><a href="https://github.com/Neloy4321/Bengali-fakenews-hatespeech-detection"><img src="assets/v4-project-05.svg" width="100%" alt="Bengali Fake News &amp; Hate Speech - Transformer comparison   /   model explanations"/></a></div>
+Classification and explainability analysis across Bengali news and hate-speech tasks. **[Repository ↗](https://github.com/Neloy4321/Bengali-fakenews-hatespeech-detection)**
+
+<div align="center"><a href="https://github.com/Neloy4321/Explainable-Sleep-Health"><img src="assets/v4-project-06.svg" width="100%" alt="Explainable Sleep Health - behavioral analysis   /   model explanation"/></a></div>
+Sleep and lifestyle-data modeling focused on interpretable predictions and behavioral recommendations. **[Repository ↗](https://github.com/Neloy4321/Explainable-Sleep-Health)**
+
 
 <details>
-<summary><b>Explore the implementation details &amp; research methods</b></summary>
-<br/>
-<ul>
-<li><b>Enterprise networking:</b> Area 0 core with Areas 10/20 for the branch design; redundant gateways and layered departmental isolation, all within an emulated lab.</li>
-<li><b>ML engineering:</b> separate data ingestion, preprocessing, model training, inference and container/deployment components for more consistent workflows.</li>
-<li><b>Business data:</b> staged URL collection, duplicate filtering, parallel extraction and structured CSV output, with manual quality checks for collected fields.</li>
-<li><b>Climate research:</b> validation against reference stations, leave-one-station-out evaluation and interpretable residual correction. Results depend on the study's validation design.</li>
-<li><b>Bengali NLP:</b> transformer model comparison, class-level metrics, significance checks and explanation-oriented evaluation.</li>
-<li><b>Healthcare analytics:</b> interpretable exploratory models and recommendations. This is research work, <b>not</b> a clinically validated diagnostic system.</li>
-</ul>
+<summary><b>Explore verified results, diagrams and project evidence</b></summary>
+
+The illustrations above are **custom conceptual diagrams**, not screenshots of running software. The following files are **real evidence from the project repositories**.
+
+| Enterprise topology | Climate XAI results | Bengali NLP evaluation |
+| :---: | :---: | :---: |
+| [![Enterprise network topology](https://raw.githubusercontent.com/Neloy4321/Enterprise-Multi-Branch-Network-with-High-Availability/main/topology/Enterprise-Network.png)](https://github.com/Neloy4321/Enterprise-Multi-Branch-Network-with-High-Availability) | [![BD-AgroClim SHAP plot](https://raw.githubusercontent.com/Neloy4321/BD-AgroClim/main/figures/F9_shap.png)](https://github.com/Neloy4321/BD-AgroClim) | [![Bengali NLP evaluation](https://raw.githubusercontent.com/Neloy4321/Bengali-fakenews-hatespeech-detection/main/fig3_confusion_matrices.png)](https://github.com/Neloy4321/Bengali-fakenews-hatespeech-detection) |
+
+**A few documented highlights:**
+
+- **Enterprise network:** HQ and two simulated branches, multi-area OSPF, VLAN segmentation, VRRP and monitoring. This is an **EVE-NG lab**, not deployed production infrastructure.
+- **Geo-business pipeline:** tested on **10,000+ business records** across US and UK regions, as described in the repository.
+- **BD-AgroClim:** NASA POWER and ERA5-Land evaluated against **36 BMD stations**, with **leave-one-station-out** validation and SHAP analysis.
+- **Bengali NLP:** BanglaBERT and multilingual BERT, classifier evaluation and SHAP/LIME explanations.
+- **Sleep-health ML:** research and software engineering work, **not a clinically validated medical diagnostic tool**.
+
 </details>
 
-## Technical toolkit
+## 04 / Technical Toolkit
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pycharm,pytorch,sklearn,mysql,linux,git,docker,github,js,nodejs,aws&perline=12" alt="Selected programming and engineering technologies" width="93%"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,mysql,linux,git,docker,github,js,nodejs,aws,vscode&perline=12" width="90%" alt="Software engineering toolkit" />
 </div>
 
-| Data analytics & engineering | Machine learning & AI | Networking & infrastructure |
+| Data engineering & analytics | ML, AI & research | Networks & systems |
 | :--- | :--- | :--- |
-| Python, pandas, NumPy | scikit-learn, XGBoost, LightGBM | MikroTik RouterOS v7, Cisco IOS |
-| SQL, Excel, Power BI | PyTorch, TensorFlow, Keras | EVE-NG, Packet Tracer |
-| EDA, ETL, data validation | NLP, BanglaBERT, mBERT | OSPF, VLANs, inter-VLAN routing |
-| Data pipelines, automation | SHAP, LIME, Optuna | VRRP, NAT, ACLs, Syslog |
-| Node.js, Playwright, CSV | CNN, LSTM, model evaluation | SSH, DHCP, network troubleshooting |
+| Python · pandas · NumPy · SQL | scikit-learn · XGBoost · LightGBM | MikroTik RouterOS · Cisco IOS |
+| Power BI · Excel · EDA | PyTorch · TensorFlow · Keras | EVE-NG · Cisco Packet Tracer |
+| Data cleaning · transformation | NLP · BanglaBERT · mBERT | OSPF · VLANs · VRRP |
+| Node.js · Playwright · CSV | SHAP · LIME · Optuna | NAT · ACLs · SSH · Syslog |
 
 <details>
-<summary><b>Additional tooling and engineering workflow</b></summary>
-<br/>
-Docker · GitHub Actions · Git · Linux · Jupyter Notebook · MongoDB · AWS EC2 / ECR · FastAPI · Matplotlib · Statistics · Reproducibility documentation
+<summary><b>Methods, infrastructure and development tooling</b></summary>
+
+**Data:** collection, normalization, feature engineering, statistical analysis, missing-value handling, reproducible ETL-style data workflows.
+
+**ML & research:** supervised learning, imbalanced classification, validation design, cross-validation, explainability, model comparison and interpreting error.
+
+**Networks:** network addressing, routing, switching, segmentation, firewalls, DHCP, SSH hardening, gateway redundancy, logging and monitoring.
+
+**Additional tools:** Docker · GitHub Actions · MongoDB · FastAPI · AWS EC2/ECR · Linux · Git · Jupyter Notebook.
+
 </details>
 
-## Research & publications
+## 05 / Research & Publications
 
-I am interested in **research that remains useful after the notebook finishes**: clear assumptions, verifiable experiments, explainability and reproducible outputs.
+**Research themes:** Explainable ML, healthcare analytics, climate data, spatiotemporal modeling, Bengali NLP and evaluation methodology.
 
-| Research work | Status | Access |
+| Work | Verified status | Link |
 | :--- | :--- | :--- |
-| Addressing Behavioral Patterns of Late Sleepers Using a Supervised Learning Approach | **Published conference proceedings (2026)** | [Paper / DOI](https://doi.org/10.2991/978-94-6239-664-7_24) |
-| An Explainable Machine Learning Framework for Personalized Sleep Health Assessment and Behavioral Recommendations | **Journal acceptance (Sep 2026); journal article not published** | [Available preprint](https://doi.org/10.2139/ssrn.5936725) |
-| Hybrid CNN–LSTM Framework for Long-Term Solar Irradiance Prediction over Bangladesh | **SSRN preprint** | [Preprint / DOI](https://doi.org/10.2139/ssrn.5928559) |
-| BD-AgroClim: Machine-learning correction of reanalysis data against Bangladesh station observations | **Reproducible research repository** | [Code & figures](https://github.com/Neloy4321/BD-AgroClim) |
+| Addressing Behavioral Patterns of Late Sleepers Using a Supervised Learning Approach | **Published conference proceedings (2026)** | [DOI ↗](https://doi.org/10.2991/978-94-6239-664-7_24) |
+| An Explainable Machine Learning Framework for Personalized Sleep Health Assessment and Behavioral Recommendations | **Accepted Sep 2026; journal publication not completed** | [Available preprint ↗](https://doi.org/10.2139/ssrn.5936725) |
+| Hybrid CNN–LSTM Framework for Long-Term Solar Irradiance Prediction over Bangladesh | **SSRN preprint** | [Preprint ↗](https://doi.org/10.2139/ssrn.5928559) |
+| BD-AgroClim climate data reconstruction | **Public research code, figures and documentation** | [Research repository ↗](https://github.com/Neloy4321/BD-AgroClim) |
 
-**Research interests:** Explainable AI · Applied ML · Spatial and temporal modeling · Bengali NLP · Climate analytics · Responsible evaluation.
-
-## Engineering journey
-
-<table>
-<tr><td width="28%"><b>2021 — 2025</b></td><td><b>BSc in Computer Science &amp; Engineering</b><br/>Daffodil International University, Bangladesh. Foundations in algorithms, data, ML/AI, databases, networking and systems.</td></tr>
-<tr><td><b>2025 — Present</b></td><td><b>Applied research &amp; project engineering</b><br/>Sleep-health ML, Bengali NLP, climate-data reconstruction, business-data pipelines and enterprise-network simulation.</td></tr>
-<tr><td><b>Mar 2026 — Present</b></td><td><b>Data Engineering Associate (part-time / remote)</b><br/>Red Digital Marketing Group — data acquisition, cleaning, transformation and validation, as listed on my portfolio.</td></tr>
-</table>
-
-## Training & credentials
-
-<table>
-<tr>
-<td width="50%"><b>Data Engineering — IBM / Coursera</b><br/><sub>Introduction to Data Engineering · 2026</sub><br/><a href="https://drive.google.com/file/d/1Usbqs1HAvvzOC1cH_jk0MhsL617aC56e/view?usp=sharing">Certificate evidence ↗</a></td>
-<td width="50%"><b>Networking Basics — Cisco Networking Academy</b><br/><sub>Course completion · 2026</sub><br/><a href="https://drive.google.com/file/d/1GE2BmFMVSMQ7716tVxrLZGleh3ZbrVQ8/view?usp=sharing">Certificate evidence ↗</a></td>
-</tr>
-<tr>
-<td><b>CCNA &amp; MTCNA — Creative IT Institute</b><br/><sub>Training course completion, not a vendor exam certification</sub><br/><a href="https://drive.google.com/file/d/1DM5PuRpSuabGNLx9FeMF_WCS-CzuFfnR/view?usp=sharing">Training evidence ↗</a></td>
-<td><b>Machine Learning Using Python — Simplilearn</b><br/><sub>Course completion · 2026</sub><br/><a href="https://drive.google.com/file/d/1iUjasdbf6T8Oq_X3cGu3eENpYBGinol-/view?usp=sharing">Certificate evidence ↗</a></td>
-</tr>
-</table>
-
-## The way I build
+<details>
+<summary><b>How I approach reproducible research</b></summary>
 
 ```text
-DEFINE THE QUESTION
-       |
-       +--> DATA      Acquire -> Validate -> Transform -> Analyze
-       |
-       +--> ML        Prepare -> Train -> Evaluate -> Explain
-       |
-       +--> NETWORK   Design -> Configure -> Test -> Observe
-       |
-       v
-  DOCUMENT THE EVIDENCE
-       |
-       v
-  IMPROVE AND ITERATE
+Research question
+      |
+Data collection & provenance
+      |
+Cleaning & validation
+      |
+Baseline and careful train/test design
+      |
+ML / deep-learning experiments
+      |
+Evaluation, error analysis & explainability
+      |
+Documented results and limitations
 ```
 
-### Current focus
+I try to distinguish published results, preprints, accepted-but-unpublished work and ongoing experiments rather than presenting every manuscript as a journal publication.
 
-- Engineering repeatable data workflows and clear documentation.
-- Strengthening ML evaluation, deployment practices and explanation methods.
-- Building advanced network labs with routing, security and high availability.
-- Publishing projects with reproducible methods and honest scope statements.
+</details>
 
----
+## 06 / Journey & Credentials
+
+**Education — 2021 to 2025**  
+B.Sc. in Computer Science & Engineering, Daffodil International University, Bangladesh.
+
+**Professional experience — Mar 2026 to present**  
+Data Engineering Associate (part-time, remote), Red Digital Marketing Group. Work listed in my portfolio includes data acquisition, cleaning, transformation, validation and analytics support.
+
+**Selected training**
+
+- [IBM / Coursera — Introduction to Data Engineering](https://drive.google.com/file/d/1Usbqs1HAvvzOC1cH_jk0MhsL617aC56e/view?usp=sharing)
+- [Cisco Networking Academy — Networking Basics](https://drive.google.com/file/d/1GE2BmFMVSMQ7716tVxrLZGleh3ZbrVQ8/view?usp=sharing)
+- [Creative IT Institute — CCNA & MTCNA training completion](https://drive.google.com/file/d/1DM5PuRpSuabGNLx9FeMF_WCS-CzuFfnR/view?usp=sharing) (training, **not** Cisco/MikroTik vendor exam certification)
+- [Simplilearn — Machine Learning Using Python](https://drive.google.com/file/d/1iUjasdbf6T8Oq_X3cGu3eENpYBGinol-/view?usp=sharing)
+
+**What I'm building toward:** stronger end-to-end data systems, more reliable ML engineering workflows and increasingly realistic networking labs, with clear documentation in each repository.
+
+## 07 / Connect
 
 <div align="center">
 
-**LET'S CONNECT SYSTEMS, DATA & IDEAS**
+**CODE WITH PURPOSE · RESEARCH WITH RIGOR · SYSTEMS THAT CONNECT**
 
-<img src="assets/engineering-map.svg" width="100%" alt="Data engineering, ML and networking signature diagram"/>
+[**Portfolio — supto.me**](https://www.supto.me) &nbsp; · &nbsp; [**LinkedIn**](https://www.linkedin.com/in/neloy-pramanik-supto-b52677236/) &nbsp; · &nbsp; [**Email**](mailto:neloybbs@gmail.com) &nbsp; · &nbsp; [**ORCID**](https://orcid.org/0009-0001-5172-870X)
 
-<a href="https://www.supto.me"><b>Portfolio</b></a> &nbsp;•&nbsp;
-<a href="https://www.linkedin.com/in/neloy-pramanik-supto-b52677236/"><b>LinkedIn</b></a> &nbsp;•&nbsp;
-<a href="mailto:neloybbs@gmail.com"><b>Email</b></a> &nbsp;•&nbsp;
-<a href="https://orcid.org/0009-0001-5172-870X"><b>ORCID</b></a>
-
-<br/><sub>Designed for clarity, motion and actual engineering evidence — not invented statistics.</sub>
+<sub>Original engineering visuals · Self-contained SVG motion · No stock banners · No fabricated stats</sub>
 
 </div>

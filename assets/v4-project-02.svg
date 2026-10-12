@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="205" viewBox="0 0 1100 205" role="img" aria-label="End-to-End Sleep Health ML feature card"><title>End-to-End Sleep Health ML feature card</title><defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#101d2a"/><stop offset="1" stop-color="#151d26"/></linearGradient></defs><rect x="1" y="1" width="1098" height="203" rx="15" fill="url(#b)" stroke="#334657" stroke-width="1.4"/>
+ <rect x="1" y="1" width="7" height="203" rx="3.5" fill="#84b9ea"/>
+ <path d="M300 24V182" stroke="#314556" stroke-width="1.2"/>
+ <rect x="18" y="26" width="265" height="145" rx="12" fill="#0e1825" stroke="#253c4f" stroke-width="1.3"/>
+ <g fill="none" stroke="#84b9ea" stroke-width="2"><rect x="24" y="83" width="61" height="44" rx="7"/><rect x="110" y="67" width="66" height="76" rx="8" fill="#1a2f41"/><rect x="202" y="83" width="61" height="44" rx="7"/><path d="M85 105H110 M176 105H202"/><circle cx="143" cy="87" r="5"/><circle cx="128" cy="117" r="5"/><circle cx="158" cy="117" r="5"/><path d="M143 92L128 112 M143 92L158 112 M128 117H158"/></g><circle r="3.8" fill="#84b9ea"><animateMotion path="M85 105H110" dur="2s" repeatCount="indefinite"/></circle><circle r="3.8" fill="#84b9ea"><animateMotion path="M176 105H202" dur="2.6s" repeatCount="indefinite"/></circle>
+ <text x="317" y="42" fill="#84b9ea" font-family="monospace" font-size="12" letter-spacing="2">02 / MACHINE LEARNING ENGINEERING</text>
+ <text x="317" y="88" fill="#edf4f9" font-family="Georgia,serif" font-size="34" font-weight="bold">End-to-End Sleep Health ML</text>
+ <text x="317" y="121" fill="#c0ced9" font-family="Arial,sans-serif" font-size="17">scikit-learn  ·  Docker  ·  AWS EC2/ECR</text>
+ <path d="M317 148H1060" stroke="#2d4657" stroke-width="1.2"/>
+ <text x="317" y="174" fill="#95b5bc" font-family="monospace" font-size="14">ingestion   /   validation   /   training   /   inference</text>
+ <text x="1050" y="42" text-anchor="end" fill="#9db5c5" font-family="monospace" font-size="13">VIEW REPOSITORY ↗</text></svg>
