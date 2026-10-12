@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="318" viewBox="0 0 1100 318" role="img" aria-label="Animated data engineering, machine learning and enterprise networking systems">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0d1d2d"/><stop offset=".5" stop-color="#111d2b"/><stop offset="1" stop-color="#19212c"/></linearGradient><linearGradient id="wire" x1="0" x2="1"><stop stop-color="#4bcfba"/><stop offset=".55" stop-color="#7cbbf0"/><stop offset="1" stop-color="#efbd7e"/></linearGradient></defs>
+<rect x="2" y="2" width="1096" height="314" rx="18" fill="url(#bg)" stroke="#304459" stroke-width="2"/>
+<g opacity=".18" stroke="#60809a" stroke-width=".6">
+<path d="M32 0V318"/><path d="M85 0V318"/><path d="M138 0V318"/><path d="M191 0V318"/><path d="M244 0V318"/><path d="M297 0V318"/><path d="M350 0V318"/><path d="M403 0V318"/><path d="M456 0V318"/><path d="M509 0V318"/><path d="M562 0V318"/><path d="M615 0V318"/><path d="M668 0V318"/><path d="M721 0V318"/><path d="M774 0V318"/><path d="M827 0V318"/><path d="M880 0V318"/><path d="M933 0V318"/><path d="M986 0V318"/><path d="M1039 0V318"/>
+<path d="M0 18H1100"/><path d="M0 67H1100"/><path d="M0 116H1100"/><path d="M0 165H1100"/><path d="M0 214H1100"/><path d="M0 263H1100"/><path d="M0 312H1100"/>
+</g>
+<text x="35" y="39" font-family="monospace" font-size="13" fill="#78dcca" letter-spacing="3">SYSTEM BLUEPRINT</text>
+<text x="1065" y="39" text-anchor="end" font-family="monospace" font-size="12" fill="#7794a6" letter-spacing="2">THREE FIELDS / ONE MINDSET</text>
+<path d="M366 66V282 M733 66V282" stroke="#375166" stroke-width="1.2" stroke-dasharray="5 6"/>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<text x="183" y="89" font-size="20" fill="#d9f6f2" font-weight="700">DATA ENGINEERING</text>
+<text x="549" y="89" font-size="20" fill="#e0edfa" font-weight="700">MACHINE LEARNING</text>
+<text x="918" y="89" font-size="20" fill="#f9e8ce" font-weight="700">NETWORKING</text>
+<text x="183" y="111" font-size="12" fill="#8daeb7">collect  →  validate  →  analyze</text>
+<text x="549" y="111" font-size="12" fill="#a3bad2">features  →  models  →  explain</text>
+<text x="918" y="111" font-size="12" fill="#bcae9a">route  →  secure  →  recover</text>
+</g>
+<g stroke="#41bfae" fill="#15343b" stroke-width="2">
+<rect x="49" y="158" rx="6" width="72" height="58"/><rect x="148" y="158" rx="6" width="72" height="58"/><rect x="247" y="158" rx="6" width="72" height="58"/>
+<path d="M121 187H148 M220 187H247" stroke="#62d9ca" stroke-width="2.5"/><path d="M140 182L148 187L140 192 M239 182L247 187L239 192" fill="none"/>
+<ellipse cx="85" cy="178" rx="18" ry="7" fill="none"/><path d="M67 178V197Q85 210 103 197V178 M67 190Q85 201 103 190" fill="none"/>
+<path d="M173 171L173 204 M183 171V204 M193 171V204"/><path d="M266 200L279 185L290 190L305 170" stroke="#62d9ca" fill="none"/>
+</g>
+<circle r="4" fill="#afffee"><animateMotion path="M121 187H148" dur="1.6s" repeatCount="indefinite"/></circle>
+<circle r="4" fill="#afffee"><animateMotion path="M220 187H247" dur="1.6s" repeatCount="indefinite"/></circle>
+<g stroke="#568cb7" stroke-width="1.7" fill="none"><path d="M494 185L515 160L538 180L560 158L583 183L565 211L531 212L493 185 M515 160L565 211 M560 158L531 212 M493 185L583 183 M538 180L531 212 M538 180L560 158"/></g>
+<circle cx="538" cy="180" r="12" fill="#23445b" stroke="#79c6f0" stroke-width="2"><animate attributeName="opacity" values="1;0.55;1" dur="2s" repeatCount="indefinite"/></circle><circle cx="515" cy="160" r="6" fill="#203548" stroke="#79c6f0" stroke-width="2"><animate attributeName="opacity" values="1;0.55;1" dur="2.5s" repeatCount="indefinite"/></circle><circle cx="560" cy="158" r="6" fill="#203548" stroke="#79c6f0" stroke-width="2"><animate attributeName="opacity" values="1;0.55;1" dur="3s" repeatCount="indefinite"/></circle><circle cx="493" cy="185" r="6" fill="#203548" stroke="#79c6f0" stroke-width="2"><animate attributeName="opacity" values="1;0.55;1" dur="2s" repeatCount="indefinite"/></circle><circle cx="583" cy="183" r="6" fill="#203548" stroke="#79c6f0" stroke-width="2"><animate attributeName="opacity" values="1;0.55;1" dur="2.5s" repeatCount="indefinite"/></circle><circle cx="531" cy="212" r="6" fill="#203548" stroke="#79c6f0" stroke-width="2"><animate attributeName="opacity" values="1;0.55;1" dur="3s" repeatCount="indefinite"/></circle><circle cx="565" cy="211" r="6" fill="#203548" stroke="#79c6f0" stroke-width="2"><animate attributeName="opacity" values="1;0.55;1" dur="2s" repeatCount="indefinite"/></circle>
+<g stroke="#c79559" stroke-width="2" fill="#272c34">
+<rect x="879" y="157" width="78" height="38" rx="6"/><path d="M890 168H946 M890 177H946"/><circle cx="936" cy="185" r="2" fill="#ffd09e"/>
+<rect x="774" y="215" width="76" height="39" rx="6"/><rect x="983" y="215" width="76" height="39" rx="6"/>
+<path d="M918 195V208H812V215 M918 208H1021V215" stroke="#e5b578" fill="none"/>
+<circle cx="812" cy="214" r="4" fill="#ffcb8e"/><circle cx="1021" cy="214" r="4" fill="#ffcb8e"/>
+</g>
+<circle r="4" fill="#ffcf97"><animateMotion path="M918 195V208H812V215" dur="2.6s" repeatCount="indefinite"/></circle>
+<circle r="4" fill="#ffcf97"><animateMotion path="M918 195V208H1021V215" dur="2.6s" repeatCount="indefinite"/></circle>
+<g font-family="monospace" font-size="12" text-anchor="middle" fill="#90aebd">
+<text x="85" y="242">SOURCE</text><text x="185" y="242">CLEAN</text><text x="283" y="242">INSIGHT</text>
+<text x="549" y="258">EVALUATE · EXPLAIN · IMPROVE</text>
+<text x="812" y="274">BRANCH</text><text x="918" y="145">CORE</text><text x="1021" y="274">BRANCH</text>
+</g>
+<rect x="49" y="287" width="271" height="3" fill="#255f64"/><rect x="49" y="287" width="70" height="3" fill="#4dceb8"><animate attributeName="x" values="49;250;49" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="413" y="287" width="271" height="3" fill="#294766"/><rect x="413" y="287" width="70" height="3" fill="#73b8ec"><animate attributeName="x" values="413;614;413" dur="6s" repeatCount="indefinite"/></rect>
+<rect x="782" y="287" width="271" height="3" fill="#5d4630"/><rect x="782" y="287" width="70" height="3" fill="#e7b075"><animate attributeName="x" values="782;983;782" dur="6.5s" repeatCount="indefinite"/></rect>
+</svg>
