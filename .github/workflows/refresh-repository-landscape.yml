@@ -1,0 +1,140 @@
+name: Refresh Profile Repository Counts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "19 */6 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/refresh-repository-landscape.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-repository-landscape
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@v4
+
+      - name: Refresh public and authorized private repository totals
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import re
+          from datetime import datetime, timezone
+          from pathlib import Path
+          from urllib.request import Request, urlopen
+
+          username = "Neloy4321"
+          asset = Path("assets/v6-repository-landscape.svg")
+
+          def get_json(url, token=None):
+              headers = {
+                  "Accept": "application/vnd.github+json",
+                  "User-Agent": "Neloy4321-profile-count-updater",
+                  "X-GitHub-Api-Version": "2022-11-28",
+              }
+              if token:
+                  headers["Authorization"] = f"Bearer {token}"
+              with urlopen(Request(url, headers=headers), timeout=20) as response:
+                  return json.load(response)
+
+          public_profile = get_json(f"https://api.github.com/users/{username}")
+          public_count = public_profile["public_repos"]
+          if not isinstance(public_count, int) or public_count < 0:
+              raise ValueError("GitHub returned an invalid public repository count")
+
+          # A repository-scoped GITHUB_TOKEN cannot read this user's private totals.
+          # Use an optional fine-grained personal token with no permissions,
+          # saved as the PROFILE_STATS_TOKEN Actions secret.
+          profile_token = os.environ.get("PROFILE_STATS_TOKEN", "").strip()
+          private_count = None
+          if profile_token:
+              profile = get_json("https://api.github.com/user", profile_token)
+              if profile.get("login", "").lower() != username.lower():
+                  raise ValueError("PROFILE_STATS_TOKEN must belong to Neloy4321")
+              private_count = profile.get("owned_private_repos")
+              if not isinstance(private_count, int) or private_count < 0:
+                  raise ValueError("Token did not return the private profile count")
+
+          svg = asset.read_text(encoding="utf-8")
+
+          # Without profile authorization, preserve the last audited private
+          # number with a clear snapshot label instead of presenting it as live.
+          prior_private = None
+          if private_count is None:
+              match = re.search(
+                  r'<text x="902" y="132"[^>]*>(\d+)</text>', svg
+              )
+              if match:
+                  prior_private = int(match.group(1))
+
+          def set_text(x, y, value):
+              global svg
+              pattern = rf'(<text x="{x}" y="{y}"[^>]*>)[^<]*(</text>)'
+              svg, matches = re.subn(
+                  pattern,
+                  lambda match: match.group(1) + str(value) + match.group(2),
+                  svg,
+              )
+              if matches != 1:
+                  raise ValueError(f"Missing or ambiguous SVG text at {x},{y}")
+
+          known_private = private_count is not None
+          fallback_private = prior_private if prior_private is not None else 0
+          total = public_count + (private_count if known_private else fallback_private)
+          set_text(197, 132, total if known_private else f"{total}+")
+          set_text(197, 162, "TOTAL REPOSITORIES" if known_private else "TOTAL (AT LEAST)")
+          set_text(549, 132, public_count)
+          set_text(902, 132, f"{private_count:02d}" if known_private else
+                   f"{prior_private:02d}" if prior_private is not None else "—")
+          set_text(902, 162, "PRIVATE REPOSITORIES" if known_private else
+                   "PRIVATE (LAST AUDIT)" if prior_private is not None else
+                   "PRIVATE COUNT UNAVAILABLE")
+          set_text(1068, 36, "COUNTS UPDATED " + datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+
+          description = (
+              f"Repository landscape: {total} total, "
+              f"{public_count} public and {private_count} private."
+              if known_private else
+              f"Repository landscape: {public_count} live public repositories, "
+              f"{prior_private} private at last audit; at least {total} total."
+              if prior_private is not None else
+              f"Repository landscape: {public_count} public repositories; "
+              "private total unavailable until authorized."
+          )
+          svg, matches = re.subn(
+              r'aria-label="Repository landscape:[^"]*"',
+              lambda match: f'aria-label="{description}"',
+              svg,
+          )
+          if matches != 1:
+              raise ValueError("Missing or ambiguous repository landscape aria-label")
+
+          asset.write_text(svg, encoding="utf-8")
+          print("Updated repository counters; private count " +
+                ("authenticated" if known_private else "unavailable (no token)"))
+          PY
+
+      - name: Commit counter update when values change
+        run: |
+          if git diff --quiet -- assets/v6-repository-landscape.svg; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/v6-repository-landscape.svg
+          git commit -m "chore: refresh public and private repository counters"
+          git push

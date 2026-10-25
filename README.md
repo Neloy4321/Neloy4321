@@ -12,7 +12,14 @@
 ---
 
 <div align="center">
-<a href="#about-direction">ABOUT</a> &nbsp;•&nbsp; <a href="#three-engineering-disciplines">DISCIPLINES</a> &nbsp;•&nbsp; <a href="#featured-engineering-work">PROJECTS</a> &nbsp;•&nbsp; <a href="#github-statistics">STATS</a> &nbsp;•&nbsp; <a href="#technical-toolkit">TOOLKIT</a> &nbsp;•&nbsp; <a href="#research-publications">RESEARCH</a> &nbsp;•&nbsp; <a href="#journey-credentials">JOURNEY</a> &nbsp;•&nbsp; <a href="#connect">CONNECT</a>
+  <a href="#about-direction"><img alt="01 ABOUT" src="https://img.shields.io/badge/01%20ABOUT-225467?style=for-the-badge&amp;labelColor=101C2B" /></a>
+  <a href="#three-engineering-disciplines"><img alt="02 DISCIPLINES" src="https://img.shields.io/badge/02%20DISCIPLINES-245E77?style=for-the-badge&amp;labelColor=101C2B" /></a>
+  <a href="#featured-engineering-work"><img alt="03 PROJECTS" src="https://img.shields.io/badge/03%20PROJECTS-296B87?style=for-the-badge&amp;labelColor=101C2B" /></a>
+  <a href="#github-statistics"><img alt="04 STATS" src="https://img.shields.io/badge/04%20STATS-2E6A93?style=for-the-badge&amp;labelColor=101C2B" /></a>
+  <a href="#technical-toolkit"><img alt="05 TOOLKIT" src="https://img.shields.io/badge/05%20TOOLKIT-3B6089?style=for-the-badge&amp;labelColor=101C2B" /></a>
+  <a href="#research-publications"><img alt="06 RESEARCH" src="https://img.shields.io/badge/06%20RESEARCH-545A7B?style=for-the-badge&amp;labelColor=101C2B" /></a>
+  <a href="#journey-credentials"><img alt="07 JOURNEY" src="https://img.shields.io/badge/07%20JOURNEY-6C5879?style=for-the-badge&amp;labelColor=101C2B" /></a>
+  <a href="#connect"><img alt="08 CONNECT" src="https://img.shields.io/badge/08%20CONNECT-775A66?style=for-the-badge&amp;labelColor=101C2B" /></a>
 </div>
 
 <a id="about-direction"></a>
@@ -55,7 +62,7 @@ I enjoy building practical, documented work—from data collection and transform
 <div align="center"><a href="https://github.com/Neloy4321/Bengali-fakenews-hatespeech-detection"><img src="assets/proj-nlp.svg" width="100%" alt="Bengali Fake News and Hate Speech project card"></a></div>
 <div align="center"><a href="https://github.com/Neloy4321/Explainable-Sleep-Health"><img src="assets/proj-sleep.svg" width="100%" alt="Explainable Sleep Health project card"></a></div>
 
-<p align="center"><a href="docs/PROJECT_ATLAS.md"><b>Explore the Complete Project Atlas → All 12 Public Repositories</b></a></p>
+<p align="center"><a href="docs/PROJECT_ATLAS.md"><b>Explore the Project Atlas → Audited Public Repositories</b></a></p>
 
 <details>
 <summary><b>Project evidence and scope notes</b></summary>
@@ -79,14 +86,14 @@ I enjoy building practical, documented work—from data collection and transform
 <div align="center"><img src="assets/sec-stats.svg" width="100%" alt="GitHub statistics section heading"></div>
 
 <div align="center">
-  <img src="assets/v6-repository-landscape.svg" width="100%" alt="Audited breakdown of all 13 repositories: 12 public, 1 private; six notebook-first, three JavaScript-first, one RouterOS-first and two profile/support public repositories"/>
+  <img src="assets/v6-repository-landscape.svg" width="100%" alt="Repository landscape with automatically refreshed public totals and authenticated private totals when available, plus an October 2026 category audit snapshot"/>
 </div>
 
 <p align="center"><b>Languages and technologies reflected in public repository source:</b><br/>
 <code>Python</code> &nbsp; <code>JavaScript</code> &nbsp; <code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>RouterOS Script</code> &nbsp; <code>YAML / JSON configuration</code>
 </p>
 
-<p align="center"><sub>The breakdown is based on all 12 public repositories, audited in October 2026. One private repository is counted but not identified. Notebook-heavy projects contain Python code; Jupyter Notebook's byte-based share is not a coding-skill percentage.</sub></p>
+<p align="center"><sub>Public repository totals refresh automatically approximately every six hours. Without an optional read-only GitHub profile token, the private count is explicitly marked as the last audited snapshot rather than a live count. The four-category public-repository mix is an October 2026 audit snapshot of 12 repositories, not a live classification. Notebook-heavy projects contain Python code; Jupyter Notebook's byte-based share is not a coding-skill percentage.</sub></p>
 
 <div align="center">
   <h3>Live GitHub Activity</h3>
