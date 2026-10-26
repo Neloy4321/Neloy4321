@@ -55,12 +55,14 @@ I enjoy building practical, documented work—from data collection and transform
 <a id="featured-engineering-work"></a>
 <div align="center"><img src="assets/sec-projects.svg" width="100%" alt="Featured engineering work section heading"></div>
 
-<div align="center"><a href="https://github.com/Neloy4321/Enterprise-Multi-Branch-Network-with-High-Availability"><img src="assets/proj-network.svg" width="100%" alt="Enterprise Multi-Branch Network project card"></a></div>
-<div align="center"><a href="https://github.com/Neloy4321/END-to-END-ML-Project"><img src="assets/proj-ml.svg" width="100%" alt="End-to-End Sleep Health ML project card"></a></div>
-<div align="center"><a href="https://github.com/Neloy4321/Enterprise-Geo-Business-Discovery-Data-Collection-Pipeline"><img src="assets/proj-pipeline.svg" width="100%" alt="Geo-Business Discovery Pipeline project card"></a></div>
-<div align="center"><a href="https://github.com/Neloy4321/BD-AgroClim"><img src="assets/proj-climate.svg" width="100%" alt="BD-AgroClim project card"></a></div>
-<div align="center"><a href="https://github.com/Neloy4321/Bengali-fakenews-hatespeech-detection"><img src="assets/proj-nlp.svg" width="100%" alt="Bengali Fake News and Hate Speech project card"></a></div>
-<div align="center"><a href="https://github.com/Neloy4321/Explainable-Sleep-Health"><img src="assets/proj-sleep.svg" width="100%" alt="Explainable Sleep Health project card"></a></div>
+<!-- FEATURED_PINS_START -->
+<div align="center"><a href="https://github.com/Neloy4321/Enterprise-Multi-Branch-Network-with-High-Availability"><img src="assets/pinned-01.svg" width="100%" alt="Enterprise-Multi-Branch-Network-with-High-Availability pinned repository card" /></a></div>
+<div align="center"><a href="https://github.com/Neloy4321/END-to-END-ML-Project"><img src="assets/pinned-02.svg" width="100%" alt="END-to-END-ML-Project pinned repository card" /></a></div>
+<div align="center"><a href="https://github.com/Neloy4321/CCK"><img src="assets/pinned-03.svg" width="100%" alt="CCK pinned repository card" /></a></div>
+<div align="center"><a href="https://github.com/Neloy4321/Enterprise-Geo-Business-Discovery-Data-Collection-Pipeline"><img src="assets/pinned-04.svg" width="100%" alt="Enterprise-Geo-Business-Discovery-Data-Collection-Pipeline pinned repository card" /></a></div>
+<div align="center"><a href="https://github.com/Neloy4321/DataForge-360"><img src="assets/pinned-05.svg" width="100%" alt="DataForge-360 pinned repository card" /></a></div>
+<div align="center"><a href="https://github.com/Neloy4321/NetworkPulse-AI"><img src="assets/pinned-06.svg" width="100%" alt="NetworkPulse-AI pinned repository card" /></a></div>
+<!-- FEATURED_PINS_END -->
 
 <p align="center"><a href="docs/PROJECT_ATLAS.md"><b>Explore the Project Atlas → Audited Public Repositories</b></a></p>
 
